@@ -18,7 +18,7 @@ public class Metodo {
 	public void recebeParametros(String nome){
 		if(nome.length()> 0 ){
 			//resultado mostrando o nome digitado
-                    JOptionPane.showMessageDialog(null, "Seja bem vindo "+ nome+" ao treinamento de Git Hub");
+                    JOptionPane.showMessageDialog(null, "Seja bem vindo porra "+ nome+" ao treinamento de Git Hub");
                             
 		}
 		else{
